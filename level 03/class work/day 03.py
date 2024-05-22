@@ -34,14 +34,16 @@
 
 """N5"""
 
-num1 = 5
-num2 = '5'
-print (type(5.5))
+# num1 = 5
+# num2 = '5'
+# print (type(5.5))
 
+"""N6"""
 
-
-
-
+num1 = 190
+num2 = 90
+num3 = (num1 + num2)
+print  (num3)
 
 
 
