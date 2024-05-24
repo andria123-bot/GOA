@@ -40,10 +40,10 @@
 
 """N6"""
 
-num1 = 190
-num2 = 90
-num3 = (num1 + num2)
-print  (num3)
+# num1 = 190
+# num2 = 90
+# num3 = (num1 + num2)
+# print  (num3)
 
 
 
