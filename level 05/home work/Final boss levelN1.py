@@ -1,5 +1,5 @@
 from turtle import *
-speed (99999)
+speed (999999999)
 width (2)
 bgcolor ("light blue")
 
@@ -479,6 +479,255 @@ forward (20)
 backward (20)
 right (40)
 forward (20)
+
+#tower left side N1
+
+penup ()
+
+right (70)
+forward (158)
+left (90)
+forward (60)
+
+pendown()
+
+begin_fill()
+color ("gray")
+right (85)
+forward (130)
+left (85)
+forward (173)
+left (90)
+forward (130)
+end_fill ()
+
+#frame of tower left side N1
+
+color ("black")
+
+backward (130)
+right (90)
+backward (173)
+right (85)
+backward (131)
+
+left (85)
+forward (40)
+right (90)
+penup ()
+forward (30)
+pendown()
+begin_fill ()
+color ("black")
+forward (75)
+left (90)
+forward (30)
+left (90)
+forward (75)
+left (90)
+forward (30)
+end_fill()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
