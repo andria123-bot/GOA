@@ -548,6 +548,8 @@ forward (50)
 right (60)
 forward (50)
 
+#door bars
+
 penup()
 goto (25,0)
 pendown()
@@ -573,7 +575,7 @@ right (90)
 forward (10)
 left (90)
 forward (144)
-backward (144)   # aq var 
+backward (144)   
 right (90)
 forward (10)
 left (90)
@@ -610,9 +612,11 @@ backward (118)
 
 penup()
 forward (200)
+right (90)
+forward (85)
 
-
-
+left (90)
+forward (20)
 
 
 
