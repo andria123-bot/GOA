@@ -617,6 +617,231 @@ forward (85)
 
 left (90)
 forward (20)
+pendown()
+begin_fill ()
+color ("gray")
+left (90)
+forward (40)
+left (90)
+forward (20)
+left (90)
+forward (40)
+left (90)
+forward (20)
+end_fill()
+
+color ("black")
+left (90)
+forward (40)
+left (90)
+forward (20)
+left (90)
+forward (40)
+left (90)
+forward (20)
+
+
+backward(20)
+right (90)
+backward (40)
+
+penup()
+left (180)
+forward (30)
+pendown()
+
+
+
+right (90)
+forward (20)
+pendown()
+begin_fill ()
+color ("gray")
+left (90)
+forward (40)
+left (90)
+forward (20)
+left (90)
+forward (40)
+left (90)
+forward (20)
+end_fill()
+
+color ("black")
+left (90)
+forward (40)
+left (90)
+forward (20)
+left (90)
+forward (40)
+left (90)
+forward (20)
+
+backward (20)
+right (90)
+backward (180)
+
+begin_fill()
+color ("gray")
+left (90)
+forward (20)
+right (90)
+forward (40)
+right (90)
+forward (20)
+right (90)
+forward (40)
+right (90)
+forward (20)
+end_fill()
+
+
+color ("black")
+right (90)
+forward (40)
+right (90)
+forward (20)
+right (90)
+forward (40)
+right (90)
+forward (20)
+right (90)
+
+left (90)
+backward (20)
+right (90)
+forward (40)
+
+penup()
+forward (30)
+pendown()
+
+begin_fill()
+color("gray")
+forward (40)
+left(90)
+forward (20)
+left(90)
+forward (40)
+left(90)
+forward (20)
+left(90)
+forward (40)
+end_fill()
+
+color("black")
+left(90)
+forward (20)
+left(90)
+forward (40)
+left(90)
+forward (20)
+left(90)
+forward (40)
+
+#windows N1 left side
+
+penup()
+backward (160)
+left (90)
+forward (20)
+right (90)
+forward (15)
+pendown()
+
+forward (20)
+right(90)
+forward (100)
+right(90)
+forward (20)
+right (90)
+forward (100)
+
+#window N2 right side
+
+penup()
+right (90)
+forward (300)
+pendown()
+
+forward (20)
+right(90)
+forward (100)
+right(90)
+forward (20)
+right (90)
+forward (100)
+
+#flag GOA
+
+penup()
+forward (70)
+right(90)
+forward (55)
+pendown()
+
+left(90)
+forward (100)
+begin_fill()
+color("white")
+right(90)
+forward (140)
+right(90)
+forward (50)
+right(90)
+forward (140)
+end_fill()
+
+color("black")
+right(90)
+forward (50)
+backward (5)
+
+penup()
+backward (25)
+right(90)
+forward (10)
+pendown()
+write ("GOAL ORIENTED ACADEMY",
+     font=("arial",7,"normal"))
+
+#right side blocks N2
+
+penup()
+goto (150, 0)
+left(90)
+forward (160)
+pendown()
+begin_fill()
+color("gray")
+right(90)
+forward (30)
+right(90)
+forward (20)
+right(90)
+forward (30)
+right(90)
+forward (20)
+end_fill()
+
+color("black")
+right(90)
+forward (30)
+right(90)
+forward (20)
+right(90)
+forward (30)
+right(90)
+forward (20)
+
+
+
+
+
+
+
+
+
 
 
 
