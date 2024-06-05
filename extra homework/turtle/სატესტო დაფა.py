@@ -1,1 +1,1 @@
-True or False
+(temp > 30) or presence
