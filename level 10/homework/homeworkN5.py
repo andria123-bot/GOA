@@ -1,7 +1,7 @@
-num1 = int(input("Pleace enter your age : "))
+name1 = int(input("Pleace enter your age : "))
 
-if num1 >18 -1 :
-    print("Your adoult")
+if name1 >18 -1 :
+    print("You are adoult")
  
 else:
-    print("Your virgin")
+    print("You are virgin")
