@@ -4,230 +4,383 @@ speed (0.0009)
 bgcolor("black")
 width(1)
 
-color("Green")
-penup()
-goto (500, -300)
-left(90)
-left(35)
-pendown()
-forward(900)
-backward(900)
-penup()
-goto (600, -500)
 
-pendown()
-forward(1200)
+bgcolor("black")
+
+color("green")
 
 penup()
-goto (700, -700)
-
+goto(-1970,-1000)
 pendown()
-forward(1500)
+left(105)
+forward(20000)
 
 penup()
-goto (800, -900)
-
+goto(-1870,-1000)
 pendown()
-forward(1800)
+left(1)
+forward(20000)
 
 penup()
-goto (830, -1000)
-
+goto(-1770,-1000)
 pendown()
-forward(2200)
+left(1)
+forward(20000)
 
 penup()
-goto (1000, -950)
-
+goto(-1670,-1000)
 pendown()
-forward(2500)
+left(1)
+forward(20000)
 
 penup()
-goto (1100, -1030)
-
+goto(-1570,-1000)
 pendown()
-forward(2800)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -1130)
-
+goto(-1470,-1000)
 pendown()
-forward(2800)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -1060)
-
+goto(-1370,-1000)
 pendown()
-forward(2800)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -980)
-
+goto(-1270,-1000)
 pendown()
-forward(2800)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -890)
-
+goto(-1170,-1000)
 pendown()
-forward(2800)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -790)
-
+goto(-1070,-1000)
 pendown()
-forward(2800)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -1620)
-
+goto(-970,-1000)
 pendown()
-forward(2800)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -1690)
-
+goto(-870,-1000)
 pendown()
-forward(2800)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -1770)
-
+goto(-770,-1000)
 pendown()
-forward(2800)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -1840)
-
+goto(-670,-1000)
 pendown()
-forward(2800)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -1930)
-
+goto(-570,-1000)
 pendown()
-forward(4000)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -1990)
-
+goto(-470,-1000)
 pendown()
-forward(4000)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -2050)
-
+goto(-370,-1000)
 pendown()
-forward(4000)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -2100)
-
+goto(-270,-1000)
 pendown()
-forward(4000)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -2150)
-
+goto(-170,-1000)
 pendown()
-forward(4000)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -2200)
-
+goto(-70,-1000)
 pendown()
-forward(4000)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -2250)
-
+goto(30,-1000)
 pendown()
-forward(4000)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -2300)
-
+goto(130,-1000)
 pendown()
-forward(4000)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -2350)
-
+goto(230,-1000)
 pendown()
-forward(4000)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -2400)
-
+goto(330,-1000)
 pendown()
-forward(4000)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -2450)
-
+goto(430,-1000)
 pendown()
-forward(4000)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -2500)
-
+goto(530,-1000)
 pendown()
-forward(4000)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -2550)
-
+goto(630,-1000)
 pendown()
-forward(4000)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -2600)
-
+goto(730,-1000)
 pendown()
-forward(4000)
+left(1)
+forward(20000)
 
 penup()
-goto (1220, -2450)
-
+goto(830,-1000)
 pendown()
-forward(4000)
+forward(20000)
 
 penup()
-goto (1220, -2500)
-
+goto(930,-1000)
 pendown()
-forward(4000)
+forward(20000)
 
 penup()
-goto (1220, -2550)
-
+goto(1030,-1000)
 pendown()
-forward(4000)
+forward(20000)
 
 penup()
-goto (1220, -2650)
-
+goto(1130,-1000)
 pendown()
-forward(4000)
+forward(20000)
 
 penup()
-goto (1220, -2700)
-
+goto(1230,-1000)
 pendown()
-forward(4000)
+forward(20000)
 
 penup()
-goto (1220, -2750)
-
+goto(1330,-1000)
 pendown()
-forward(4000)
+forward(20000)
 
-right(35)
-right(90)
+penup()
+goto(1430,-1000)
+pendown()
+forward(20000)
+
+penup()
+goto(1530,-1000)
+pendown()
+forward(20000)
+
+penup()
+goto(1630,-1000)
+pendown()
+forward(20000)
+
+penup()
+goto(1730,-1000)
+pendown()
+forward(20000)
+
+penup()
+goto(1830,-1000)
+pendown()
+forward(20000)
+
+penup()
+goto(1930,-1000)
+pendown()
+forward(20000)
+
+penup()
+goto(2030,-1000)
+pendown()
+forward(20000)
+
+penup()
+goto(2130,-1000)
+pendown()
+forward(20000)
+
+penup()
+goto(2230,-1000)
+pendown()
+forward(20000)
+
+penup()
+goto(2330,-1000)
+pendown()
+forward(20000)
+
+right(132)
+
+
+penup()
+goto(-1000,700)
+pendown()
+left(1)
+forward(2000)
+
+penup()
+goto(-1000,600)
+pendown()
+left(1)
+forward(2000)
+
+penup()
+goto(-1000,500)
+pendown()
+left(1)
+forward(2000)
+
+penup()
+goto(-1000,400)
+pendown()
+left(1)
+forward(2000)
+
+penup()
+goto(-1000,300)
+pendown()
+left(1)
+forward(2000)
+
+penup()
+goto(-1000,200)
+pendown()
+left(1)
+forward(2000)
+
+penup()
+goto(-1000,100)
+pendown()
+left(1)
+forward(2000)
+
+penup()
+goto(-1000,0)
+pendown()
+left(1)
+forward(2000)
+
+penup()
+goto(-1000,-100)
+pendown()
+left(1)
+forward(2000)
+
+penup()
+goto(-1000,-200)
+pendown()
+left(1)
+forward(2000)
+
+penup()
+goto(-1000,-300)
+pendown()
+left(1)
+forward(2000)
+
+penup()
+goto(-1000,-400)
+pendown()
+left(1)
+forward(2000)
+
+penup()
+goto(-1000,-500)
+pendown()
+left(1)
+forward(2000)
+
+penup()
+goto(-1000,-600)
+pendown()
+left(1)
+forward(20000)
+
+penup()
+goto(-1000,-700)
+pendown()
+left(1)
+forward(20000)
+
+penup()
+goto(-1000,-800)
+pendown()
+left(1)
+forward(20000)
+
+penup()
+goto(-1000,-900)
+pendown()
+left(1)
+forward(20000)
+
+penup()
+goto(-1000,-1000)
+pendown()
+left(1)
+forward(20000)
+
+penup()
+goto(-1000,-1100)
+pendown()
+left(1)
+forward(20000)
+
+
+
+right(20)
 
 width (3)
 penup()
-goto(-150,100)
+goto(-100,100)
 pendown()
 
 begin_fill()
@@ -399,7 +552,7 @@ goto(-50,35)
 pendown()
 
 begin_fill()
-color("dark green")
+color("light green")
 
 forward(100)
 left(90)
@@ -500,6 +653,7 @@ forward(15)   #დაშორება
 left(90)
 forward(30)
 pendown()
+
 
 begin_fill()
 for i in range(4):
