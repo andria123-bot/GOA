@@ -8,3 +8,5 @@ inputs = input("Enter Your Name: ")
 
 capitalized_name = inputs.capitalize()
 print(capitalized_name)
+
+
