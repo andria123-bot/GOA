@@ -1,4 +1,3 @@
 def hello():
-    print("GOA IS AWESOME")
-
+    print("GOA IS BEST")
 hello()

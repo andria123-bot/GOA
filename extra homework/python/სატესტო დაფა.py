@@ -148,7 +148,7 @@
 #             return numbers[index]
 
 # print(func(numbers))
-colors = ['red', 'blue', 'green', 'yellow', 'purple']
-for color in colors:
-  if 'r' in color:
-    print(color)
+from turtle import *
+speed(0); hideturtle(); bgcolor("white")
+for i in range(80): forward(i); left(59)
+done()

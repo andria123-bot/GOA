@@ -1,5 +1,10 @@
-def int_value(value):
-    int_value = int(value)
-    print(int_value)
+def 123(value):
+    123 = int(value)
+    print(123)
+123(69)
 
-int_value(69)
+
+
+
+
+
